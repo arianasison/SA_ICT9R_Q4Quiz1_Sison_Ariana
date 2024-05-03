@@ -1,0 +1,102 @@
+div {
+text-align: center;
+}
+
+body {
+background-color: #266A2E;
+margin: 0%;
+}
+
+div {
+color: white;
+padding: 20px;
+border-radius: 60px;
+}
+
+p {
+  color: white;
+}
+
+#palawan {
+border: 10px groove white;
+width: 30%;
+display: inline-block;
+
+
+}
+
+#vigan {
+border: 10px groove white;
+width: 30%;
+display: inline-block;
+margin-left: 31%;
+margin-right: 0%;
+}
+
+#rice {
+border: 10px groove white;
+width: 30%;
+float: left;
+vertical-align: top;
+margin-left: 10%;
+
+}
+
+#beach {
+border: 10px groove white;
+width: 30%;
+display: inline-block;
+float: right;
+vertical-align: top;
+margin-right: 10%;
+
+
+}
+
+#despalawan {
+border: 10px groove white;
+width: 30%;
+display: inline-block;
+vertical-align: top;
+}
+
+#desvigan {
+border: 10px groove white;
+width: 10%;
+display: inline-block;
+width: 30%;
+margin-left: 31%;
+vertical-align: middle;
+
+}
+
+#desrice {
+border: 10px groove white;
+width: 10%;
+display: inline-block;
+width: 30%;
+margin-left: 10%;
+float: left;
+vertical-align: top;
+
+
+}
+
+#desbeach {
+border: 10px groove white;
+width: 10%;
+display: inline-block;
+width: 30%;
+float: right;
+vertical-align: top;
+margin-right: 10%;
+
+}
+
+.margin1 {
+  margin-top: -4px;
+}
+
+.margin2 {
+  margin-top: -10px;
+}

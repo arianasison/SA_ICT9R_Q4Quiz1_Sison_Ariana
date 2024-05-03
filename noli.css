@@ -1,0 +1,62 @@
+body {
+	background-color: #FFFDD0;
+}
+
+table, th, td {
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid;
+	padding: 1px;
+	border-color: black;
+}
+
+th {
+	color: black;
+	font-size: 35px;
+	font-family: serif;
+}
+
+th.first {
+	color: darkred;
+	font-size: 30px;
+	font-family: serif;
+}
+
+th.second {
+	color: darkblue;
+	font-size: 30px;
+}
+
+th.third {
+	color: darkcyan;
+	font-size: 30px;
+}
+
+th.fourth {
+	color: darkorange;
+	font-size: 30px;
+}
+
+table {
+	width: 100%;
+	height: 100%;
+}
+
+td {
+	font-size: 20px;
+}
+
+
+td.chars {
+	font-size: 20px;
+	font-weight: bold;s
+}
+
+
+td.fifth {
+	font-family: serif;
+	text-align: center;
+}
+
+div { text-align: center; }
+ul { display: inline-block; text-align: left; }
